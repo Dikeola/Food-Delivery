@@ -46,4 +46,8 @@
         flex-direction: column;
         gap: 35px;
     }
+    .footer-copyright{
+        text-align: center;
+        
+    }
 }
