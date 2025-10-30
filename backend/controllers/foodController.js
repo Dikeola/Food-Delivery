@@ -51,4 +51,4 @@ const removeFood = async (req, res) =>{
         res.status(500).json({success:false, message: "Failed to remove food item"});
     }
 }
-export {addFood, listFood}
+export {addFood, listFood, removeFood}
